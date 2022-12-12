@@ -3,16 +3,16 @@ This is a working clone of online crowdfunding website MILAAP, this project has 
 
 ##  Contributors
 1. Shahzad Malik
-    https://github.com/Pulkit0111
+    https://github.com/malik04121
 
 2. Abhinandan rauniyar
-    https://github.com/bharadwaj-bhat
+    https://github.com/rakeshrauniyar12
 
 3. Gurmeet singh
-    https://github.com/onlyaditya
+    https://github.com/kalsaniya
   
 4. Sachin Tewatia
-    https://github.com/onlyaditya
+    https://github.com/Sachintewatia-tech
     
 ##  Pages Build
 Landing Page
